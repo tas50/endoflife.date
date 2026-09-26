@@ -28,14 +28,14 @@ releases:
   - releaseCycle: "cos-129"
     lts: true
     releaseDate: 2026-05-21
-    eol: 2028-07-01 # "July 2028" on https://docs.cloud.google.com/container-optimized-os/docs/release-notes/
+    eol: 2028-07-01
     latest: "cos-129-19506-448-36"
     latestReleaseDate: 2026-09-17
 
   - releaseCycle: "cos-125"
     lts: true
     releaseDate: 2025-10-09
-    eol: 2028-02-01 # "Feb 2028" on https://docs.cloud.google.com/container-optimized-os/docs/release-notes/
+    eol: 2028-02-01
     latest: "cos-125-19216-655-28"
     latestReleaseDate: 2026-09-17
 
