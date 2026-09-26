@@ -150,18 +150,16 @@ releases:
 > It is used on a variety of Cisco products, including routers, switches, and wireless controllers.
 
 Releases are time-based, each with a fixed release date.
+
+[Starting with 26.1.1](https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-xe-16/bulletin-c25-2378701.html), Cisco publishes two releases per year at approximately six-month intervals.
+All 26.x releases are Extended Support releases with a sustaining support lifetime of 48 months from GA.
+Software maintenance ends 12 months after the end-of-sale date, followed by vulnerability and security support for a further 30 months.
+
 Up to 17.18, the schedule specified 3 minor releases per year at 4-month intervals.
-[Starting with 26.1.1](https://www.cisco.com/c/en/us/products/collateral/ios-nx-os-software/ios-xe-16/bulletin-c25-2378701.html),
-it specifies 2 releases per year at approximately 6-month intervals.
-
-For 17.x, every first and second release (e.g. 17.1, 17.2, 17.4, 17.5...) receives standard support.
-With standard support, releases are supported 12 months with critical bug fixes and security updates.
-
-For 17.x, every third release (e.g. 17.3, 17.6...) receives extended support.
-With extended support, releases are supported 30 months with critical bug fixes and security updates,
+17.x releases numbered first or second in each three-release sequence (e.g. 17.1, 17.2, 17.4, 17.5...) receive standard support,
+with 12 months of critical bug fixes and security updates.
+Every third release (e.g. 17.3, 17.6...) receives extended support,
+with 30 months of critical bug fixes and security updates,
 followed by an additional 18 months of security updates only.
-
-Starting with 26.1.1, all releases are Extended Support releases, with a sustaining support lifetime of 48 months from GA.
-Software maintenance ends 12 months, and vulnerability and security support 30 months, after the end-of-sale date.
 
 The exact dates for each release are published in its End-of-Life bulletin.
